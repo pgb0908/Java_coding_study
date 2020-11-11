@@ -1,3 +1,5 @@
+package ThreadModel;
+
 public class ThreadStateTest {
     public static void main(String args[]) throws InterruptedException {
         Thread t = new Thread(() -> {

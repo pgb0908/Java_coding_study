@@ -1,3 +1,5 @@
+package ThreadModel;
+
 public class ThreadJoinTest {
     static int sum = 0;
 

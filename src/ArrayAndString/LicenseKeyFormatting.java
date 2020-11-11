@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class LicenseKeyFormatting {
     public static void main(String[] args) {
         String str = "8F3Z-2e-9-wabcdef";

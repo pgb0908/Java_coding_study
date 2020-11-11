@@ -1,4 +1,4 @@
-import sun.applet.Main;
+package LinkedList;
 
 class ListNode {
     int val;

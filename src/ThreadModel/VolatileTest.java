@@ -1,3 +1,5 @@
+package ThreadModel;
+
 public class VolatileTest extends Thread {
     // volatile 제거시 계속해서 동작
     volatile boolean isAdd = true;

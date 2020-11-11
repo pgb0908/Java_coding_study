@@ -1,3 +1,5 @@
+package ThreadModel;
+
 public class InterruptTest extends Thread{
 
     public void run() {
